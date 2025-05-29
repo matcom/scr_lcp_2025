@@ -1,0 +1,1199 @@
+[
+  {
+    "type": "message",
+    "sender": "pepe",
+    "recipient": "papa",
+    "message": "cardosa",
+    "timestamp": "2025-05-25T17:13:01.570997"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "kimikito",
+    "message": "el yordi",
+    "timestamp": "2025-05-25T17:26:25.984229"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "kimikito",
+    "message": "pa rato",
+    "timestamp": "2025-05-25T17:26:35.280867"
+  },
+  {
+    "type": "message",
+    "sender": "kimikito",
+    "recipient": "aaa",
+    "message": "q bola",
+    "timestamp": "2025-05-25T17:26:39.767432"
+  },
+  {
+    "type": "message",
+    "sender": "kimikito",
+    "recipient": "aaa",
+    "message": "jonee",
+    "timestamp": "2025-05-25T17:26:44.431371"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "*global*",
+    "message": "tralalelo",
+    "timestamp": "2025-05-25T17:26:50.016158"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "*global*",
+    "message": "tralalelo tralala",
+    "timestamp": "2025-05-25T17:26:59.722916"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "kimikito",
+    "message": "yyyyyy",
+    "timestamp": "2025-05-25T17:27:11.600439"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "*global*",
+    "message": "tralalelo tralala",
+    "timestamp": "2025-05-25T17:31:33.884910"
+  },
+  {
+    "type": "message",
+    "sender": "aaa",
+    "recipient": "kimikito",
+    "message": "poquito",
+    "timestamp": "2025-05-25T17:31:41.852435"
+  },
+  {
+    "type": "message",
+    "sender": "ffff",
+    "recipient": "kimikito",
+    "message": "bfbfb",
+    "timestamp": "2025-05-25T17:35:00.602954"
+  },
+  {
+    "type": "message",
+    "sender": "papa",
+    "recipient": "pepe",
+    "message": "pozuelo",
+    "timestamp": "2025-05-25T17:36:11.466074"
+  },
+  {
+    "type": "message",
+    "sender": "papa",
+    "recipient": "pepe",
+    "message": "yamaha",
+    "timestamp": "2025-05-25T17:36:15.710864"
+  },
+  {
+    "type": "message",
+    "sender": "papa",
+    "recipient": "pepe",
+    "message": "que bola papa",
+    "timestamp": "2025-05-25T17:36:22.530849"
+  },
+  {
+    "type": "message",
+    "sender": "pepe",
+    "recipient": "papa",
+    "message": "jonee el tipazo",
+    "timestamp": "2025-05-25T17:36:28.809448"
+  },
+  {
+    "type": "message",
+    "sender": "papa",
+    "recipient": "*global*",
+    "message": "mensaje global",
+    "timestamp": "2025-05-25T17:36:34.983113"
+  },
+  {
+    "type": "message",
+    "sender": "ssss",
+    "recipient": "pepe",
+    "message": "lirili lailia",
+    "timestamp": "2025-05-25T17:38:31.048438"
+  },
+  {
+    "type": "message",
+    "sender": "Tralalelo Tralala",
+    "recipient": "lirili lalila",
+    "message": "papua",
+    "timestamp": "2025-05-25T17:40:07.963536"
+  },
+  {
+    "type": "message",
+    "sender": "lirili lalila",
+    "recipient": "Tralalelo Tralala",
+    "message": "nueva guinea",
+    "timestamp": "2025-05-25T17:40:12.636307"
+  },
+  {
+    "type": "message",
+    "sender": "Shein",
+    "recipient": "Amanda",
+    "message": "y mis libritas",
+    "timestamp": "2025-05-25T17:53:56.395529"
+  },
+  {
+    "type": "message",
+    "sender": "Amanda",
+    "recipient": "Shein",
+    "message": "no no c",
+    "timestamp": "2025-05-25T17:54:03.426314"
+  },
+  {
+    "type": "message",
+    "sender": "Shein",
+    "recipient": "Amanda",
+    "message": "ah si",
+    "timestamp": "2025-05-25T17:54:07.426473"
+  },
+  {
+    "type": "message",
+    "sender": "Shein",
+    "recipient": "Amanda",
+    "message": "tengo a leo",
+    "timestamp": "2025-05-25T17:54:10.380252"
+  },
+  {
+    "type": "file",
+    "sender": "Shein",
+    "recipient": "Amanda",
+    "filename": "messaging.py",
+    "timestamp": "2025-05-25T17:54:27.884023"
+  },
+  {
+    "type": "message",
+    "sender": "Shein",
+    "recipient": "*global*",
+    "message": "frfrfr",
+    "timestamp": "2025-05-25T17:55:12.411739"
+  },
+  {
+    "type": "file",
+    "sender": "sssss",
+    "recipient": "Amanda",
+    "filename": "messaging.py",
+    "timestamp": "2025-05-25T17:58:01.332843"
+  },
+  {
+    "type": "file",
+    "sender": "opo",
+    "recipient": "lero",
+    "filename": "messaging.py",
+    "timestamp": "2025-05-25T18:04:41.697516"
+  },
+  {
+    "type": "file",
+    "sender": "lero",
+    "recipient": "opo",
+    "filename": "Dota 2.url",
+    "timestamp": "2025-05-25T18:05:13.883704"
+  },
+  {
+    "type": "message",
+    "sender": "lalala",
+    "recipient": "pipo",
+    "message": "lolo",
+    "timestamp": "2025-05-28T14:47:51.550444"
+  },
+  {
+    "type": "message",
+    "sender": "gogogo",
+    "recipient": "Amalia              ",
+    "message": "holaa",
+    "timestamp": "2025-05-29T02:36:22.928274+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "gogogo",
+    "recipient": "Amalia              ",
+    "message": "ayer",
+    "timestamp": "2025-05-29T02:37:09.555116+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "gggg",
+    "recipient": "Amalia              ",
+    "message": "fff",
+    "timestamp": "2025-05-29T02:41:25.796225+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "gggg",
+    "recipient": "*global*",
+    "message": "aaaa",
+    "timestamp": "2025-05-29T02:41:32.732829+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "cccc",
+    "recipient": "Amalia              ",
+    "message": "ekis",
+    "timestamp": "2025-05-29T02:48:41.718792+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dadad",
+    "recipient": "Amalia              ",
+    "message": "gege",
+    "timestamp": "2025-05-29T02:51:23.671926+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dadad",
+    "recipient": "*global*",
+    "message": "aaa",
+    "timestamp": "2025-05-29T02:51:29.504047+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "asere",
+    "recipient": "Amalia              ",
+    "message": "gege",
+    "timestamp": "2025-05-29T02:54:54.130582+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "popo",
+    "recipient": "Amalia              ",
+    "message": "me mataste",
+    "timestamp": "2025-05-29T03:01:12.790955+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "popo",
+    "recipient": "Amalia              ",
+    "message": "q bolongo",
+    "timestamp": "2025-05-29T03:01:47.392969+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "fff",
+    "recipient": "Amalia              ",
+    "message": "hola",
+    "timestamp": "2025-05-29T03:06:31.036715+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ssss",
+    "recipient": "Amalia              ",
+    "message": "xxx",
+    "timestamp": "2025-05-29T03:09:54.131588+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "sese",
+    "recipient": "Amalia              ",
+    "message": "sasa",
+    "timestamp": "2025-05-29T03:12:43.654243+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "fafaffa",
+    "recipient": "Amalia              ",
+    "message": "dada",
+    "timestamp": "2025-05-29T03:23:21.643562+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "fafaffa",
+    "recipient": "Amalia              ",
+    "message": "dada",
+    "timestamp": "2025-05-29T03:23:23.864988+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "fafaffa",
+    "recipient": "Amalia              ",
+    "message": "dada",
+    "timestamp": "2025-05-29T03:23:26.840453+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "bbb",
+    "recipient": "Amalia              ",
+    "message": "dddd",
+    "timestamp": "2025-05-29T03:32:23.812308+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "fefe",
+    "recipient": "Amalia              ",
+    "message": "dededede",
+    "timestamp": "2025-05-29T03:36:12.154890+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "tetete",
+    "recipient": "Amalia              ",
+    "message": "dada",
+    "timestamp": "2025-05-29T03:40:41.403970+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "yyy",
+    "recipient": "Amalia              ",
+    "message": "ssss",
+    "timestamp": "2025-05-29T03:44:25.935026+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "yyy",
+    "recipient": "Amalia              ",
+    "message": "dada",
+    "timestamp": "2025-05-29T03:44:34.559726+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "sss",
+    "recipient": "Amalia              ",
+    "message": "dddd",
+    "timestamp": "2025-05-29T03:49:18.025338+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "Amalia              ",
+    "message": "aaaa",
+    "timestamp": "2025-05-29T03:52:04.318938+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "Amalia              ",
+    "message": "dddd",
+    "timestamp": "2025-05-29T03:52:21.163508+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "*global*",
+    "message": "aaa",
+    "timestamp": "2025-05-29T03:52:24.483614+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "tetete",
+    "recipient": "Amalia              ",
+    "message": "aaaa",
+    "timestamp": "2025-05-29T03:55:10.251615+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaaaaa",
+    "recipient": "Amalia              ",
+    "message": "aaaa",
+    "timestamp": "2025-05-29T03:57:49.705548+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaaaaa",
+    "recipient": "Amalia              ",
+    "message": "sssss",
+    "timestamp": "2025-05-29T03:57:52.221152+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaaaaa",
+    "recipient": "Amalia              ",
+    "message": "dasdasd",
+    "timestamp": "2025-05-29T03:57:53.366331+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaaaaa",
+    "recipient": "*global*",
+    "message": "asfas",
+    "timestamp": "2025-05-29T03:57:54.584459+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "tttt",
+    "recipient": "Amalia              ",
+    "message": "sss",
+    "timestamp": "2025-05-29T04:01:32.025587+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ssssss",
+    "recipient": "Amalia              ",
+    "message": "ddd",
+    "timestamp": "2025-05-29T04:05:21.774552+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "tttt",
+    "recipient": "Amalia              ",
+    "message": "aaa",
+    "timestamp": "2025-05-29T04:07:37.404992+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "rrrr",
+    "recipient": "Amalia              ",
+    "message": "dede",
+    "timestamp": "2025-05-29T04:08:44.649421+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ttt",
+    "recipient": "Amalia              ",
+    "message": "sss",
+    "timestamp": "2025-05-29T04:10:36.316366+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ttt",
+    "recipient": "Amalia              ",
+    "message": "fefefe",
+    "timestamp": "2025-05-29T04:10:44.306332+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ttt",
+    "recipient": "Amalia              ",
+    "message": "wrwrwr",
+    "timestamp": "2025-05-29T04:11:12.362380+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "uyuyuy",
+    "recipient": "Amalia              ",
+    "message": "uuuu",
+    "timestamp": "2025-05-29T04:13:20.057594+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "uyuyuy",
+    "recipient": "Amalia              ",
+    "message": "asfdasf",
+    "timestamp": "2025-05-29T04:13:39.100755+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "uyuyuy",
+    "recipient": "Amalia              ",
+    "message": "gasgsags",
+    "timestamp": "2025-05-29T04:13:42.792618+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "uyuyuy",
+    "recipient": "Amalia              ",
+    "message": "qerqwt2tWCwectewC",
+    "timestamp": "2025-05-29T04:13:54.153753+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ioioi",
+    "recipient": "Amalia              ",
+    "message": "twetewt",
+    "timestamp": "2025-05-29T04:16:20.026753+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ioioi",
+    "recipient": "Amalia              ",
+    "message": "twetwetvwetvwev",
+    "timestamp": "2025-05-29T04:16:24.478939+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ioioi",
+    "recipient": "Amalia              ",
+    "message": "twetwetvwetvwev",
+    "timestamp": "2025-05-29T04:16:25.195458+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ioioi",
+    "recipient": "Amalia              ",
+    "message": "tvwevtwectwect",
+    "timestamp": "2025-05-29T04:16:31.029195+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "swwwww",
+    "recipient": "Amalia              ",
+    "message": "sss",
+    "timestamp": "2025-05-29T04:19:26.257264+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "swwwww",
+    "recipient": "Amalia              ",
+    "message": "dfgvsfgrvs",
+    "timestamp": "2025-05-29T04:19:55.536502+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ututut",
+    "recipient": "Amalia              ",
+    "message": "aaaa",
+    "timestamp": "2025-05-29T04:30:00.747395+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "iiiii",
+    "recipient": "Amalia              ",
+    "message": "yeyeye",
+    "timestamp": "2025-05-29T04:33:13.517264+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "Amalia              ",
+    "message": "teye",
+    "timestamp": "2025-05-29T04:38:10.513745+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "*global*",
+    "message": "fa fas",
+    "timestamp": "2025-05-29T04:38:26.195714+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "aaaa",
+    "recipient": "Amalia              ",
+    "message": "xxx",
+    "timestamp": "2025-05-29T04:38:59.733561+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "teqqq",
+    "recipient": "Amalia              ",
+    "message": "ssssssss",
+    "timestamp": "2025-05-29T04:42:08.019925+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "teqqq",
+    "recipient": "*global*",
+    "message": "dadada",
+    "timestamp": "2025-05-29T04:42:20.122687+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "iiiiiy",
+    "recipient": "Amalia              ",
+    "message": "yrywyyw",
+    "timestamp": "2025-05-29T04:44:22.633194+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "iiiiiy",
+    "recipient": "*global*",
+    "message": "asfasf",
+    "timestamp": "2025-05-29T04:45:00.489691+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "itititi",
+    "recipient": "Amalia              ",
+    "message": "iiii",
+    "timestamp": "2025-05-29T04:49:17.868876+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "gagagag",
+    "recipient": "Amalia              ",
+    "message": "ssss",
+    "timestamp": "2025-05-29T04:50:40.292210+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "pppp",
+    "recipient": "Amalia              ",
+    "message": "ddddd",
+    "timestamp": "2025-05-29T04:52:32.746864+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "yyeyyey",
+    "recipient": "Amalia              ",
+    "message": "eeee",
+    "timestamp": "2025-05-29T04:54:03.370859+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "yyeyyey",
+    "message": "ojojojo",
+    "timestamp": "2025-05-29T04:54:13.266014+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "yyeyyey",
+    "message": "ojojojo",
+    "timestamp": "2025-05-29T04:54:13.603613+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "yyeyyey",
+    "message": "ojojojo",
+    "timestamp": "2025-05-29T04:54:44.774310+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "ojojojo",
+    "timestamp": "2025-05-29T04:54:52.391773+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "yyeyyey",
+    "recipient": "*global*",
+    "message": "hhh",
+    "timestamp": "2025-05-29T05:22:19.043136+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "popopo",
+    "recipient": "Amalia              ",
+    "message": "hrtth",
+    "timestamp": "2025-05-29T05:29:35.199967+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "popopo",
+    "message": "opopo",
+    "timestamp": "2025-05-29T05:29:44.512148+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "vsvs",
+    "recipient": "Amalia              ",
+    "message": "sa",
+    "timestamp": "2025-05-29T05:37:05.792221+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "vsvs",
+    "message": "oioio",
+    "timestamp": "2025-05-29T05:37:15.337170+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "vsvs",
+    "message": "oioio",
+    "timestamp": "2025-05-29T05:37:28.230094+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "Amalia              ",
+    "recipient": "sasas",
+    "filename": "archivo_20250529_054546_45.bin",
+    "timestamp": "2025-05-29T05:45:46.218465+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "Amalia              ",
+    "recipient": "sasas",
+    "filename": "archivo_20250529_054602_119.bin",
+    "timestamp": "2025-05-29T05:46:02.119240+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ffff",
+    "recipient": "*global*",
+    "message": "aa",
+    "timestamp": "2025-05-29T05:49:24.715039+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "ffff",
+    "recipient": "Amalia              ",
+    "message": "casa",
+    "timestamp": "2025-05-29T05:49:29.703483+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "sasa",
+    "filename": "_20250529_055258",
+    "timestamp": "2025-05-29T05:52:58.638144+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "sasa",
+    "filename": "_20250529_055311",
+    "timestamp": "2025-05-29T05:53:11.927311+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "yyy",
+    "recipient": "*global*",
+    "message": "as",
+    "timestamp": "2025-05-29T05:56:58.270985+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "sss",
+    "filename": "archivo_20250529_055903_145.bin",
+    "timestamp": "2025-05-29T05:59:03.187127+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "sss",
+    "filename": "archivo_20250529_055914_69.bin",
+    "timestamp": "2025-05-29T05:59:14.054697+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "vvvvv",
+    "message": "kkk",
+    "timestamp": "2025-05-29T06:04:12.627938+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "vvvvv",
+    "message": "kkk",
+    "timestamp": "2025-05-29T06:04:15.361769+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "fff",
+    "message": "plplpl",
+    "timestamp": "2025-05-29T06:07:33.521702+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "bbb",
+    "recipient": "Amalia              ",
+    "message": "bb",
+    "timestamp": "2025-05-29T06:11:25.631512+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "jfgjh",
+    "recipient": "Amalia              ",
+    "message": "fjgfj",
+    "timestamp": "2025-05-29T06:13:19.113251+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "hdhdh",
+    "filename": "archivo_20250529_061754_177.pdf",
+    "timestamp": "2025-05-29T06:17:54.922210+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "hdhdh",
+    "filename": "archivo_20250529_061805_210.jpg",
+    "timestamp": "2025-05-29T06:18:05.826925+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "hdhdh",
+    "filename": "archivo_20250529_061817_105.bin",
+    "timestamp": "2025-05-29T06:18:17.235531+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "hdghs",
+    "filename": "archivo_20250529_062122_253.pdf",
+    "timestamp": "2025-05-29T06:21:22.054420+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "gsdgsdg",
+    "filename": "archivo_20250529_062550_226.pdf",
+    "timestamp": "2025-05-29T06:25:50.281352+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "oioio",
+    "filename": "archivo_20250529_062751_24.pdf",
+    "timestamp": "2025-05-29T06:27:51.102489+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "oioio",
+    "recipient": "Amalia              ",
+    "filename": "peers_store.py",
+    "timestamp": "2025-05-29T06:27:58.554280+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "oioio",
+    "recipient": "Amalia              ",
+    "filename": "peers_store.py",
+    "timestamp": "2025-05-29T06:28:00.598950+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "oioio",
+    "recipient": "Amalia              ",
+    "filename": "Analisis.pdf",
+    "timestamp": "2025-05-29T06:28:18.678462+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "oioio",
+    "recipient": "Amalia              ",
+    "filename": "Analisis.pdf",
+    "timestamp": "2025-05-29T06:28:21.703181+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "asfasf",
+    "filename": "archivo_20250529_063029_196.pdf",
+    "timestamp": "2025-05-29T06:30:29.204000+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "asfasf",
+    "recipient": "Amalia              ",
+    "filename": "Analisis.pdf",
+    "timestamp": "2025-05-29T06:30:35.411498+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "asfasf",
+    "recipient": "Amalia              ",
+    "filename": "cp3.pdf",
+    "timestamp": "2025-05-29T06:30:49.905972+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "jjjj",
+    "filename": "archivo_20250529_063313_97.pdf",
+    "timestamp": "2025-05-29T06:33:13.230376+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "jjjj",
+    "recipient": "Amalia              ",
+    "filename": "cp4-1.pdf",
+    "timestamp": "2025-05-29T06:33:20.230323+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "jjjj",
+    "recipient": "Amalia              ",
+    "filename": "cp4-1.pdf",
+    "timestamp": "2025-05-29T06:33:21.859553+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "kokok",
+    "message": "mk",
+    "timestamp": "2025-05-29T06:37:59.114046+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "kokok",
+    "message": "mk",
+    "timestamp": "2025-05-29T06:38:00.735718+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "kokok",
+    "message": "mk",
+    "timestamp": "2025-05-29T06:38:00.913395+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "kokok",
+    "message": "mk",
+    "timestamp": "2025-05-29T06:38:01.084994+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "kokok",
+    "recipient": "Amalia              ",
+    "message": "gagsaga",
+    "timestamp": "2025-05-29T06:38:05.461644+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "kokok",
+    "recipient": "Amalia              ",
+    "message": "gasgas",
+    "timestamp": "2025-05-29T06:38:07.384355+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "kokok",
+    "recipient": "*global*",
+    "message": "sagasgsa",
+    "timestamp": "2025-05-29T06:38:09.751540+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "timestamp": "2025-05-29T06:38:18.226603+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "kjhkj",
+    "timestamp": "2025-05-29T06:38:28.222635+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "kokok",
+    "recipient": "*global*",
+    "message": "sagasgsa",
+    "timestamp": "2025-05-29T06:38:40.505498+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "timestamp": "2025-05-29T06:38:53.269106+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "lklkklkl",
+    "timestamp": "2025-05-29T06:39:04.675503+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "tete",
+    "recipient": "*global*",
+    "message": "dadada",
+    "timestamp": "2025-05-29T12:39:29.956696+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dada",
+    "recipient": "Amalia              ",
+    "message": "hola",
+    "timestamp": "2025-05-29T12:47:00.672996+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "dada",
+    "message": "hola",
+    "timestamp": "2025-05-29T12:47:08.685809+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dada",
+    "recipient": "*global*",
+    "message": "hola\nadas",
+    "timestamp": "2025-05-29T12:47:19.019627+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dada",
+    "recipient": "*global*",
+    "message": "adada",
+    "timestamp": "2025-05-29T12:47:28.647668+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "dada",
+    "recipient": "*global*",
+    "message": "fefefe",
+    "timestamp": "2025-05-29T12:47:31.026099+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "hola",
+    "timestamp": "2025-05-29T12:47:39.682136+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": ";m;k;",
+    "timestamp": "2025-05-29T12:47:46.850158+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "cdcdcd",
+    "message": "hola",
+    "timestamp": "2025-05-29T13:08:27.883097+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "cdcdcd",
+    "message": "hoaaa",
+    "timestamp": "2025-05-29T13:08:35.551995+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "cdcdcd",
+    "recipient": "Amalia              ",
+    "message": "ninung hoa",
+    "timestamp": "2025-05-29T13:08:41.850725+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "cdcdcd",
+    "recipient": "*global*",
+    "message": "asa",
+    "timestamp": "2025-05-29T13:08:45.161056+00:00"
+  },
+  {
+    "type": "message",
+    "sender": "Amalia              ",
+    "recipient": "*global*",
+    "message": "hoaaa",
+    "timestamp": "2025-05-29T13:08:49.349407+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "seses",
+    "recipient": "Amalia              ",
+    "filename": "01.13.25. PC + FHV.pdf",
+    "timestamp": "2025-05-29T13:11:56.461847+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "seses",
+    "recipient": "Amalia              ",
+    "filename": "01.13.25. PC + FHV.pdf",
+    "timestamp": "2025-05-29T13:11:58.407518+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "seses",
+    "recipient": "Amalia              ",
+    "filename": "01.13.25. PC + FHV.pdf",
+    "timestamp": "2025-05-29T13:12:02.404406+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "tete",
+    "filename": "archivo_20250529_131449_204.bin",
+    "timestamp": "2025-05-29T13:14:49.773804+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "cece",
+    "filename": "archivo_20250529_131659_228.uek^LK;Wr=eԇuht뒢є'gWrak_#Wc2Ky͞9sؙT+尋j]1O",
+    "timestamp": "2025-05-29T13:16:59.081360+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "cece",
+    "filename": "archivo_20250529_131702_31.̱EPA'_Vq1$vkKV1EmBdg5A!XŉbmBsSE%)ڄr_f%qh_wZUO ",
+    "timestamp": "2025-05-29T13:17:02.748136+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "cece",
+    "recipient": "Amalia              ",
+    "filename": "cp2.pdf",
+    "timestamp": "2025-05-29T13:17:10.711487+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "dede",
+    "filename": "DF-1.7%21 0 obj___BitsPerComponent 8_ColorSpace _DeviceRGB_Height 127_Intent _RelativeColorimetric_Subtype _Image_Type _XObject_Width 1075_Filter [_FlateDecode _DCTDecode]_DecodeParms [null ___Quality_20250529_132156.bin",
+    "timestamp": "2025-05-29T13:21:56.847597+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "dddd",
+    "filename": "N@docProps_PKN@w^rdocProps_app.xmlN0HC{b'G[AzDm,۲ݪ_20250529_132428.bin",
+    "timestamp": "2025-05-29T13:24:28.448754+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "dddd",
+    "filename": "@!L!This program cannot be run in DOS mode.$PELcК_20250529_132434.bin",
+    "timestamp": "2025-05-29T13:24:34.108783+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "tetetet",
+    "filename": "DF-1.4_äüöß2 0 obj_Length 3 _20250529_132725.bin",
+    "timestamp": "2025-05-29T13:27:25.020567+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "vvzxvxz",
+    "filename": "archivo_20250529_134010_80.bin",
+    "timestamp": "2025-05-29T13:40:10.670436+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "dedede",
+    "filename": "archivo_20250529_135333_128.txt",
+    "timestamp": "2025-05-29T13:53:33.902756+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "yryr",
+    "recipient": "Amalia              ",
+    "filename": "enviar.txt",
+    "timestamp": "2025-05-29T13:55:08.198573+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "192.168.1.100",
+    "recipient": "yeyeyeye",
+    "filename": "archivo_20250529_135720_151.docx",
+    "timestamp": "2025-05-29T13:57:20.081177+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "yeyeyeye",
+    "recipient": "Amalia              ",
+    "filename": "adadadasdasd.txt",
+    "timestamp": "2025-05-29T13:57:38.523468+00:00"
+  },
+  {
+    "type": "file",
+    "sender": "yeyeyeye",
+    "recipient": "Amalia              ",
+    "filename": "adadadasdasd.txt",
+    "timestamp": "2025-05-29T13:57:41.628469+00:00"
+  }
+]
